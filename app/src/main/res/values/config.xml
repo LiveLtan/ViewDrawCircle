@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="circleRadius">95</fraction>
+    <integer name="rippleCount">5</integer>
+</resources>

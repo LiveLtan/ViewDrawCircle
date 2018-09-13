@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.ltan.view.viewdrawcircle.view.CircleView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:ringCount="6"
+        app:ringWidth="40"
+        app:centerColor="@color/colorBlue"
+        app:centerRadius="90.3"
+        app:ringColor="@color/colorBlue" />
+
+</android.support.constraint.ConstraintLayout>
